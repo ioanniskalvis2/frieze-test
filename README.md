@@ -12,6 +12,6 @@
 - Add in your .env file another variable named EXCHANGE_RATE_API_KEY and add the value of your API key.
 - Use the first terminal and run the command `npm start`.
 - Use the second terminal and run the command `npm run dev`.
-### Now you should be able to run the application.
+### Now you should be able to run the application and react should automatically open the page at (http://localhost:3000), otherwise click on this link.
 ### If it's not working make sure the ports in the env files are matching and also that your exchange rate API key has the correct value.
 
